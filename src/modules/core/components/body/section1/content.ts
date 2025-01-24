@@ -1,0 +1,9 @@
+import TranslateImage1 from '@/assets/svg/translate_imgs/translate_img-1.webp'
+import TranslateVideo1 from '@/assets/video/TranslateVideo/Translate_video-1.mp4'
+import TranslateVideo2 from '@/assets/video/TranslateVideo/Translate_video-2.mp4'
+
+export const content = [
+    {id:1, title:'Supporting global languages including Spanish, French, Chinese, and more',description:"Reduce time spent manually translating files and costs spent on pricey translation services. Get translations back instantly to apply to transcripts, subtitles, or even voice overs if you're translating videos to English. Grow your reach with translated video content for audiences who speak entirely new languages like English, Spanish, Chinese, French, Hindi, German, Arabic, and dozens more.", image: TranslateImage1, alt:'TranslateImage1'},
+    {id:1, title:"Add translated subtitles to your video that's accurate and in-context",description:"Never translate videos manually again. Minimize time spent translating content and spend far less money compared to hiring a translator. In seconds, Kapwing creates highly-accurate translations that require minimal editing. Once your video is translated, make it stand out with Kapwing's all-in-one video editor—add visual effects, custom animations, transitions, text, music, and so much more.", video: TranslateVideo1, alt:'TranslateVideo1'},
+    {id:1, title:'Directly translate the voices in your video',description:'The truth about recording speech? You lose time from recording voice overs in more takes than it should. Get your recording and translating done on just one platform. Get full access to premium, studio-grade AI voices (powered by ElevenLabs) to generate voice overs without having to record.', video: TranslateVideo2, alt:'TranslateVideo2'}
+]

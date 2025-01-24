@@ -1,0 +1,112 @@
+Fecha: 📅 01/07/2024 ⏰
+Tarea: 📝 Creación de Landing Page
+Reporte enviado por: 👨‍💻 @goriandev
+Equipo: 💻 Grupo 3 - frontend 🖥
+
+Cambios (Subtareas): 📝
+—Creación de landing page: 📝 Se clonó al 70% el maquetado de la Landing page provista.
+¿Qué salió bien? 🎉
+Se lograron las animaciones.
+Se logró insertar videos.
+Se logró insertar un link embebido a un video de youtube.
+¿Qué no salió tan bien? 🤔
+No se llegó a completar el 100% de la landing por falta de tiempo.
+¿Qué aprendimos? 📚
+A generar una animación de texto con linear-gradient, y a embeber con iframes videos de youtube.
+¿Qué podemos mejorar? 🚀
+La velocidad de la clonación.
+Acciones para el próximo día 🔄
+-Terminar el maquetado.
+
+Fecha: 📅 02/07/2024 ⏰
+Tarea: 📝 Creación de Landing Page
+Reporte enviado por: 👨‍💻 @goriandev
+Equipo: 💻 Grupo 3 - frontend 🖥
+
+Cambios (Subtareas): 📝
+—Creación de landing page: 📝 Se clonó al 90% el maquetado de la Landing page provista.
+¿Qué salió bien? 🎉
+Se logró la sección FAQ con lógica de javascript.
+Se logró el segundo slider automático (scroll horizontal).
+¿Qué no salió tan bien? 🤔
+No se llegó a completar el 100% de la landing por falta de tiempo.
+¿Qué aprendimos? 📚
+A utilizar pseudolemenetos ::before y ::after con Tailwind.
+¿Qué podemos mejorar? 🚀
+La velocidad de la clonación.
+Acciones para el próximo día 🔄
+-Terminar el maquetado.
+
+Fecha: 📅 02/07/2024 ⏰
+Tarea: 📝 Creación de Landing Page
+Reporte enviado por: 👨‍💻 @lerkor_online
+Equipo: 💻 Grupo 3 - frontend 🖥
+
+Cambios (Subtareas): 📝
+—Creación de landing page: 📝 Se clonó al 100% nav desktop con estilos, modularizacion, reutilizacion y carga de info.
+¿Qué salió bien? 🎉
+¿Qué no salió tan bien? 🤔
+No se llegó a completar el 100% de la landing.
+¿Qué aprendimos? 📚
+Css group y clases anidadas.
+¿Qué podemos mejorar? 🚀
+La velocidad de la clonación.
+Acciones para el próximo día 🔄
+-Terminar nav mobile.
+
+Fecha: 📅 03/07/2024 ⏰
+Tarea: 📝 Finalización de landing page y creación de página nueva
+Reporte enviado por: 👨‍💻 @goriandev
+Equipo: 💻 Grupo 3 - frontend 🖥
+
+Cambios (Subtareas): 📝
+—Creación de landing page: 📝 Se terminó de clonar el maquetado de la Landing page provista.
+—Creación de nueva página: 📝 Se terminó de clonar el maquetado de la página adicional provista.
+¿Qué salió bien? 🎉
+Se logró la creación de un carrusel, además del resto del maquetado. También se refactorizó código y se reutilizaron componentes.
+¿Qué no salió tan bien? 🤔
+Faltó el footer y el responsive.
+¿Qué aprendimos? 📚
+A posicionar imágenes manteniendo el aspect ratio con la técnica de padding-top porcentual.
+¿Qué podemos mejorar? 🚀
+La velocidad de la clonación.
+Acciones para el próximo día 🔄
+-Agregar carga lazy en las imágenes, hacer el footer, completar el responsive, esperar nuevas tareas.
+
+Fecha: 📅 03/07/2024 ⏰ 
+Tarea: 📝 Finalización de landing page y creación de página nueva 
+Reporte enviado por: 👨‍💻 @lerkor_online 
+Equipo: 💻 Grupo 3 - frontend 🖥 
+ 
+Cambios (Subtareas): 📝 
+  —Creación de landing page: 📝 Se terminó de clonar la nav con el modo mobile. 
+  —Creación de componente: 📝 Se terminó de clonar el footer. 
+¿Qué salió bien? 🎉 
+Se refactorizó código evitando el useEffect en un hook para las query. 
+¿Qué no salió tan bien? 🤔 
+Faltó el responsive. 
+¿Qué aprendimos? 📚 
+Manejo de errores de eslint. 
+¿Qué podemos mejorar? 🚀 
+La velocidad de la clonación. 
+Acciones para el próximo día 🔄 
+-Completar el responsive, esperar nuevas tareas.
+
+Fecha: 📅 04/07/2024 ⏰
+Tarea: 📝 Finalización de nueva página, refactorización de código y retoque de estilos.
+Reporte enviado por: 👨‍💻 @goriandev 
+Equipo: 💻 Grupo 3 - frontend 🖥
+
+Cambios (Subtareas): 📝
+  —Creación de landing page: 📝 Se refactorizó casi la totalidad del código. Se ajustaron estilos.
+  —Creación de nueva página: 📝 Ídem.
+¿Qué salió bien? 🎉
+Se logró ajustar detalles de la UI que no habían quedado bien idénticas al original, y se refactorizó la mayor parte del código.
+¿Qué no salió tan bien? 🤔
+Falta el responsive.
+¿Qué aprendimos? 📚
+A que tengo que estar atento al código de los otros miembros del equipo, por si necesitan también ajustar algo.
+¿Qué podemos mejorar? 🚀
+La velocidad de la clonación.
+Acciones para el próximo día 🔄
+-Agregar carga lazy en las imágenes, completar el responsive.
